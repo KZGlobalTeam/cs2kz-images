@@ -11270,16 +11270,17 @@ var generateJson = async (buildDir, repoUrl, images) => {
     return `${repoUrl}/raw/${branch}/${dir}/${encodeURIComponent(name)}.${ext}`;
   };
   const imageJson = images.map((image) => {
-    const name = path.parse(image).name;
+    const map = path.basename(path.dirname(image));
+    const course = path.parse(image).name;
     return {
-      name,
-      src: withBase("master", "images", name, "jpg"),
-      full: withBase("public", "full", name, "jpg"),
-      medium: withBase("public", "medium", name, "jpg"),
-      thumb: withBase("public", "thumbnail", name, "jpg"),
-      webp: withBase("public", "webp/full", name, "webp"),
-      webp_medium: withBase("public", "webp/medium", name, "webp"),
-      webp_thumb: withBase("public", "webp/thumbnail", name, "webp")
+      name: `${map} Course ${course}`,
+      src: withBase("master", `images/${map}`, course, "jpg"),
+      full: withBase("public", `full/${map}`, course, "jpg"),
+      medium: withBase("public", `medium/${map}`, course, "jpg"),
+      thumb: withBase("public", `thumbnail/${map}`, course, "jpg"),
+      webp: withBase("public", `webp/full/${map}`, course, "webp"),
+      webp_medium: withBase("public", `webp/medium/${map}`, course, "webp"),
+      webp_thumb: withBase("public", `webp/thumbnail/${map}`, course, "webp")
     };
   });
   const prettyJson = JSON.stringify(imageJson, null, 2);
