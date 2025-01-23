@@ -13,87 +13,87 @@ import { FileInfo } from "./types";
 import { getFilesInDir, ensureDir, listEntries, timePromise } from "./utils";
 
 export const run = async () => {
-  // const srcDir = "images";
-  // const buildDir = "public";
+  const srcDir = "images";
+  const buildDir = "public";
 
-  const token = core.getInput("token");
+  // const token = core.getInput("token");
 
-  const srcDir = core.getInput("src_dir");
-  const buildDir = core.getInput("build_dir");
+  // const srcDir = core.getInput("src_dir");
+  // const buildDir = core.getInput("build_dir");
 
-  const context = github.context;
-  const repoUrl = context.payload.repository?.html_url;
+  // const context = github.context;
+  // const repoUrl = context.payload.repository?.html_url;
 
-  const event = context.eventName;
-  if (!validEvents.includes(event)) {
-    return core.setFailed(`Invalid event ${event}`);
-  }
+  // const event = context.eventName;
+  // if (!validEvents.includes(event)) {
+  //   return core.setFailed(`Invalid event ${event}`);
+  // }
 
-  if (!repoUrl) {
-    return core.setFailed("Failed to retrieve repository url");
-  }
+  // if (!repoUrl) {
+  //   return core.setFailed("Failed to retrieve repository url");
+  // }
 
-  if (context.ref !== "refs/heads/master") {
-    return core.setFailed("This action can only be invoked on master");
-  }
+  // if (context.ref !== "refs/heads/master") {
+  //   return core.setFailed("This action can only be invoked on master");
+  // }
 
-  core.info(`Received event ${event}`);
+  // core.info(`Received event ${event}`);
 
-  const toRemove: FileInfo[] = [];
+  const toRemove: FileInfo[] = [{ map: "bkz_bonus", name: "4", filepath: "images/bkz_bonus/4.jpg" }];
   const toGenerate: FileInfo[] = [];
 
-  const allImages = await getFilesInDir("images", validExtensions);
+  // const allImages = await getFilesInDir("images", validExtensions);
 
-  if (event === "push") {
-    const octokit = github.getOctokit(token);
+  // if (event === "push") {
+  //   const octokit = github.getOctokit(token);
 
-    const response = await octokit.rest.repos.compareCommits({
-      ...context.repo,
-      head: context.payload.after,
-      base: context.payload.before,
-    });
+  //   const response = await octokit.rest.repos.compareCommits({
+  //     ...context.repo,
+  //     head: context.payload.after,
+  //     base: context.payload.before,
+  //   });
 
-    const files = response.data.files;
-    if (!files) {
-      return core.setFailed("Could not get diff");
-    }
+  //   const files = response.data.files;
+  //   if (!files) {
+  //     return core.setFailed("Could not get diff");
+  //   }
 
-    const imageFiles = files.filter((f) => {
-      const parsed = path.parse(f.filename);
+  //   const imageFiles = files.filter((f) => {
+  //     const parsed = path.parse(f.filename);
 
-      const goodExt = validExtensions.includes(parsed.ext);
-      const goodFilename = /^\d+$/.test(parsed.name);
-      const goodDir = path.dirname(path.resolve(parsed.dir)) === path.resolve(srcDir);
+  //     const goodExt = validExtensions.includes(parsed.ext);
+  //     const goodFilename = /^\d+$/.test(parsed.name);
+  //     const goodDir = path.dirname(path.resolve(parsed.dir)) === path.resolve(srcDir);
 
-      return goodExt && goodFilename && goodDir;
-    });
+  //     return goodExt && goodFilename && goodDir;
+  //   });
 
-    console.log("changed files", imageFiles);
+  //   console.log("changed files", imageFiles);
 
-    const removed = imageFiles.filter((f) => removalStatuses.includes(f.status));
-    const modified = imageFiles.filter((f) => generateStatuses.includes(f.status));
+  //   const removed = imageFiles.filter((f) => removalStatuses.includes(f.status));
+  //   const modified = imageFiles.filter((f) => generateStatuses.includes(f.status));
 
-    toRemove.push(
-      ...removed.map((f) => {
-        const map = path.basename(path.dirname(f.filename));
-        return { map, name: path.parse(f.filename).name, filepath: f.filename };
-      })
-    );
-    toGenerate.push(
-      ...modified.map((f) => {
-        const map = path.basename(path.dirname(f.filename));
-        return { map, name: path.parse(f.filename).name, filepath: f.filename };
-      })
-    );
-  }
+  //   toRemove.push(
+  //     ...removed.map((f) => {
+  //       const map = path.basename(path.dirname(f.filename));
+  //       return { map, name: path.parse(f.filename).name, filepath: f.filename };
+  //     })
+  //   );
+  //   toGenerate.push(
+  //     ...modified.map((f) => {
+  //       const map = path.basename(path.dirname(f.filename));
+  //       return { map, name: path.parse(f.filename).name, filepath: f.filename };
+  //     })
+  //   );
+  // }
 
   listEntries(
     "To be removed images",
-    toRemove.map((f) => f.name)
+    toRemove.map((f) => `${f.map} - ${f.name}`)
   );
   listEntries(
     "To be generated images",
-    toGenerate.map((f) => f.name)
+    toGenerate.map((f) => `${f.map} - ${f.name}`)
   );
 
   const imageService = new ImageService(buildDir);
@@ -111,8 +111,8 @@ export const run = async () => {
   await timePromise("Remove images", Promise.all(removeTasks));
   await timePromise("Generate images", Promise.all(generateTasks));
 
-  await timePromise("Generate JSON", generateJson(buildDir, repoUrl, allImages));
-  await timePromise("Generate README", generateMarkdown(buildDir, allImages));
+  // await timePromise("Generate JSON", generateJson(buildDir, repoUrl, allImages));
+  // await timePromise("Generate README", generateMarkdown(buildDir, allImages));
 
   core.notice(`Removed ${removeTasks.length} images`);
   core.notice(`Generated ${generateTasks.length} images`);
