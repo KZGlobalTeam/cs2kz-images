@@ -11403,8 +11403,8 @@ var ImageService = class {
   removeImageVariant(srcImage, format, variant) {
     const destDir = path4.join(this.buildDir, variantDirs[format][variant], srcImage.map);
     const destImage = path4.join(destDir, `${srcImage.name}.${format}`);
-    console.log("removing path", destImage);
-    return fs4.promises.rm(destImage, { force: true });
+    console.log("removing path", path4.resolve(destImage));
+    return fs4.promises.rm(path4.resolve(destImage), { force: true });
   }
   generateImage(srcImage) {
     return Promise.all([
