@@ -24,11 +24,11 @@ The following are available:
 
 ## Examples
 
-#### I want to use full- sized kz_wetbricks in WEBP format
-- https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_wetbricks.webp
+#### I want to use full-sized image of the second course from kz_tangent in WEBP format
+- https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_tangent/2.webp
 
-#### I want to use medium- sized bkz_apricity_v3 in JPG format
-- https://github.com/jonahbearde/cs2kz-images/raw/public/medium/bkz_apricity_v3.jpg
+#### I want to use medium-sized image of the fourth course from kz_alpha in JPG format
+- https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_alpha/4.jpg
 
 #### I want to retrieve all the map images and their urls as JSON
 - https://github.com/jonahbearde/cs2kz-images/raw/public/maps.json
