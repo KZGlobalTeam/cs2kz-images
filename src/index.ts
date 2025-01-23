@@ -13,6 +13,9 @@ import { FileInfo } from "./types";
 import { getFilesInDir, ensureDir, listEntries, timePromise } from "./utils";
 
 export const run = async () => {
+  // const srcDir = "images";
+  // const buildDir = "public";
+
   const token = core.getInput("token");
 
   const srcDir = core.getInput("src_dir");

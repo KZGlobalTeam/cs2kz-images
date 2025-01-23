@@ -32,7 +32,7 @@ export class ImageService {
   }
 
   resizeImage(image: string, destPath: string, [w, h]: ImageDimensions) {
-    console.log("dest path", destPath);
+    console.log("writing path", destPath);
     return new Promise((resolve, reject) => {
       gm(image)
         .resize(w, h, "!")
