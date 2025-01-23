@@ -32,7 +32,6 @@ export class ImageService {
   }
 
   resizeImage(image: string, destPath: string, [w, h]: ImageDimensions) {
-    console.log("writing path", destPath);
     return new Promise((resolve, reject) => {
       gm(image)
         .resize(w, h, "!")
@@ -63,10 +62,6 @@ export class ImageService {
     const destDir = path.join(this.buildDir, variantDirs[format][variant], srcImage.map);
 
     const destImage = path.join(destDir, `${srcImage.name}.${format}`);
-
-    console.log("removing path", path.resolve(destImage));
-
-    console.log("image exists?", fs.existsSync(path.resolve(destImage)));
 
     return fs.promises.rm(path.resolve(destImage), { force: true });
   }
