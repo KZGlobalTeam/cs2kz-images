@@ -66,6 +66,8 @@ export class ImageService {
 
     console.log("removing path", path.resolve(destImage));
 
+    console.log("image exists?", fs.existsSync(path.resolve(destImage)));
+
     return fs.promises.rm(path.resolve(destImage), { force: true });
   }
 

@@ -5966,6 +5966,7 @@ var ImageService = class {
     const destDir = path2.join(this.buildDir, variantDirs[format][variant], srcImage.map);
     const destImage = path2.join(destDir, `${srcImage.name}.${format}`);
     console.log("removing path", path2.resolve(destImage));
+    console.log("image exists?", fs2.existsSync(path2.resolve(destImage)));
     return fs2.promises.rm(path2.resolve(destImage), { force: true });
   }
   generateImage(srcImage) {
