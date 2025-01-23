@@ -11380,6 +11380,7 @@ var ImageService = class {
     this.buildDir = buildDir;
   }
   resizeImage(image, destPath, [w, h]) {
+    console.log("dest path", destPath);
     return new Promise((resolve3, reject) => {
       (0, import_gm.default)(image).resize(w, h, "!").noProfile().write(destPath, (err) => {
         if (err) return reject(err);
