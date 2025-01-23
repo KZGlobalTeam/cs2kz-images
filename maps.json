@@ -1,102 +1,42 @@
 [
   {
-    "name": "1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/1.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/1.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/1.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/1.webp"
+    "name": "kz_bigcastle Course 1",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_bigcastle/1.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_bigcastle/1.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_bigcastle/1.jpg",
+    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_bigcastle/1.jpg",
+    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_bigcastle/1.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_bigcastle/1.webp",
+    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_bigcastle/1.webp"
   },
   {
-    "name": "2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/2.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/2.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/2.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/2.webp"
+    "name": "kz_bigcastle Course 2",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_bigcastle/2.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_bigcastle/2.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_bigcastle/2.jpg",
+    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_bigcastle/2.jpg",
+    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_bigcastle/2.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_bigcastle/2.webp",
+    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_bigcastle/2.webp"
   },
   {
-    "name": "3",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/3.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/3.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/3.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/3.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/3.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/3.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/3.webp"
+    "name": "bkz_bonus Course 1",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/bkz_bonus/1.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/bkz_bonus/1.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/bkz_bonus/1.jpg",
+    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/bkz_bonus/1.jpg",
+    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/bkz_bonus/1.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/bkz_bonus/1.webp",
+    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/bkz_bonus/1.webp"
   },
   {
-    "name": "4",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/4.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/4.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/4.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/4.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/4.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/4.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/4.webp"
-  },
-  {
-    "name": "1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/1.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/1.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/1.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/1.webp"
-  },
-  {
-    "name": "2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/2.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/2.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/2.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/2.webp"
-  },
-  {
-    "name": "3",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/3.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/3.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/3.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/3.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/3.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/3.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/3.webp"
-  },
-  {
-    "name": "1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/1.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/1.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/1.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/1.webp"
-  },
-  {
-    "name": "2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/2.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/2.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/2.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/2.webp"
-  },
-  {
-    "name": "3",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/3.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/3.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/3.jpg",
-    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/3.jpg",
-    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/3.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/3.webp",
-    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/3.webp"
+    "name": "bkz_bonus Course 2",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/bkz_bonus/2.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/bkz_bonus/2.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/bkz_bonus/2.jpg",
+    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/bkz_bonus/2.jpg",
+    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/bkz_bonus/2.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/bkz_bonus/2.webp",
+    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/bkz_bonus/2.webp"
   }
 ]
