@@ -63,9 +63,9 @@ export class ImageService {
 
     const destImage = path.join(destDir, `${srcImage.name}.${format}`);
 
-    console.log("removing path", destImage);
+    console.log("removing path", path.resolve(destImage));
 
-    return fs.promises.rm(destImage, { force: true });
+    return fs.promises.rm(path.resolve(destImage), { force: true });
   }
 
   generateImage(srcImage: FileInfo) {
