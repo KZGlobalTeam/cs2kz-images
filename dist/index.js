@@ -11469,6 +11469,7 @@ var run = async () => {
       const goodDir = path5.dirname(path5.resolve(parsed.dir)) === path5.resolve(srcDir);
       return goodExt && goodFilename && goodDir;
     });
+    console.log("changed files", imageFiles);
     const removed = imageFiles.filter((f) => removalStatuses.includes(f.status));
     const modified = imageFiles.filter((f) => generateStatuses.includes(f.status));
     toRemove.push(

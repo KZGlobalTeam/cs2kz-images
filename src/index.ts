@@ -65,6 +65,8 @@ export const run = async () => {
       return goodExt && goodFilename && goodDir;
     });
 
+    console.log("changed files", imageFiles);
+
     const removed = imageFiles.filter((f) => removalStatuses.includes(f.status));
     const modified = imageFiles.filter((f) => generateStatuses.includes(f.status));
 
