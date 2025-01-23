@@ -8,5 +8,15 @@
     "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/bkz_bonus/1.webp",
     "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/bkz_bonus/1.webp",
     "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/bkz_bonus/1.webp"
+  },
+  {
+    "name": "bkz_bonus Course 4",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/bkz_bonus/4.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/bkz_bonus/4.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/bkz_bonus/4.jpg",
+    "thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/bkz_bonus/4.jpg",
+    "webp": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/bkz_bonus/4.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/bkz_bonus/4.webp",
+    "webp_thumb": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/bkz_bonus/4.webp"
   }
 ]
