@@ -5995,7 +5995,7 @@ var ImageService = class {
 var run = async () => {
   const srcDir = "images";
   const buildDir = "public";
-  const toRemove = [{ map: "bkz_bonus", name: "4", filepath: "images/bkz_bonus/4.jpg" }];
+  const toRemove = [{ map: "bkz_bonus", name: "1", filepath: "images/bkz_bonus/1.jpg" }];
   const toGenerate = [];
   listEntries(
     "To be removed images",
