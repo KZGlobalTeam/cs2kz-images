@@ -44,7 +44,10 @@ export class ImageService {
   }
 
   removeImage(srcImage: FileInfo) {
-    return Promise.all([this.removeImageFormat(srcImage, ImageFormat.JPG), this.removeImageFormat(srcImage, ImageFormat.WEBP)]);
+    return Promise.all([
+      this.removeImageFormat(srcImage, ImageFormat.JPG),
+      this.removeImageFormat(srcImage, ImageFormat.WEBP),
+    ]);
   }
 
   removeImageFormat(srcImage: FileInfo, format: ImageFormat) {
@@ -59,6 +62,8 @@ export class ImageService {
     const destDir = path.join(this.buildDir, variantDirs[format][variant], srcImage.map);
 
     const destImage = path.join(destDir, `${srcImage.name}.${format}`);
+
+    console.log("removing path", destImage);
 
     return fs.promises.rm(destImage, { force: true });
   }

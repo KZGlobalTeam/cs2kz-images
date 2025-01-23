@@ -11388,7 +11388,10 @@ var ImageService = class {
     });
   }
   removeImage(srcImage) {
-    return Promise.all([this.removeImageFormat(srcImage, "jpg" /* JPG */), this.removeImageFormat(srcImage, "webp" /* WEBP */)]);
+    return Promise.all([
+      this.removeImageFormat(srcImage, "jpg" /* JPG */),
+      this.removeImageFormat(srcImage, "webp" /* WEBP */)
+    ]);
   }
   removeImageFormat(srcImage, format) {
     return Promise.all([
@@ -11400,6 +11403,7 @@ var ImageService = class {
   removeImageVariant(srcImage, format, variant) {
     const destDir = path4.join(this.buildDir, variantDirs[format][variant], srcImage.map);
     const destImage = path4.join(destDir, `${srcImage.name}.${format}`);
+    console.log("removing path", destImage);
     return fs4.promises.rm(destImage, { force: true });
   }
   generateImage(srcImage) {
