@@ -39,8 +39,8 @@ export const run = async () => {
 
   // core.info(`Received event ${event}`);
 
-  const toRemove: FileInfo[] = [{ map: "bkz_bonus", name: "1", filepath: "images/bkz_bonus/1.jpg" }];
-  const toGenerate: FileInfo[] = [];
+  const toRemove: FileInfo[] = [];
+  const toGenerate: FileInfo[] = [{ map: "bkz_bonus", name: "1", filepath: "images/bkz_bonus/1.jpg" }];
 
   // const allImages = await getFilesInDir("images", validExtensions);
 
