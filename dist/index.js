@@ -11277,10 +11277,10 @@ var generateJson = async (buildDir, repoUrl, images) => {
       src: withBase("master", `images/${map}`, course, "jpg"),
       full: withBase("public", `full/${map}`, course, "jpg"),
       medium: withBase("public", `medium/${map}`, course, "jpg"),
-      thumb: withBase("public", `thumbnail/${map}`, course, "jpg"),
-      webp: withBase("public", `webp/full/${map}`, course, "webp"),
+      thumbnail: withBase("public", `thumbnail/${map}`, course, "jpg"),
+      webp_full: withBase("public", `webp/full/${map}`, course, "webp"),
       webp_medium: withBase("public", `webp/medium/${map}`, course, "webp"),
-      webp_thumb: withBase("public", `webp/thumbnail/${map}`, course, "webp")
+      webp_thumbnail: withBase("public", `webp/thumbnail/${map}`, course, "webp")
     };
   });
   const prettyJson = JSON.stringify(imageJson, null, 2);
