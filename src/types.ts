@@ -11,10 +11,10 @@ export interface ImageJson {
   src: string;
   full: string;
   medium: string;
-  thumb: string;
-  webp: string;
+  thumbnail: string;
+  webp_full: string;
   webp_medium: string;
-  webp_thumb: string;
+  webp_thumbnail: string;
 }
 
 export enum ImageFormat {

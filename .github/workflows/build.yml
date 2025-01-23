@@ -3,8 +3,8 @@ name: Build images
 on:
   push:
     branches: [ master ]
-    # paths:
-    #   - "images/**"
+    paths:
+      - "images/**"
 
   workflow_dispatch:
     inputs:

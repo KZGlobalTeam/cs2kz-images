@@ -11308,10 +11308,10 @@ var generateMarkdown = async (buildDir, images) => {
       `|${map}`,
       `|${course}`,
       `|![${course}](webp/thumbnail/${map}/${course}.webp?raw=true)`,
-      `|[image](full/${map}/${course}.jpg?raw=true)`,
+      `|[full](full/${map}/${course}.jpg?raw=true)`,
       `|[medium](medium/${map}/${course}.jpg?raw=true)`,
       `|[thumbnail](thumbnail/${map}/${course}.jpg?raw=true)`,
-      `|[webp](webp/full/${map}/${course}.webp?raw=true)`,
+      `|[full](webp/full/${map}/${course}.webp?raw=true)`,
       `|[medium](webp/medium/${map}/${course}.webp?raw=true)`,
       `|[thumbnail](webp/thumbnail/${map}/${course}.webp?raw=true)|`
     ];
