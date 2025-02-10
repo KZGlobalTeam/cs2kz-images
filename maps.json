@@ -1,72 +1,12 @@
 [
   {
-    "name": "kz_tangent Course 1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_tangent/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_tangent/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_tangent/1.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_tangent/1.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_tangent/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_tangent/1.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_tangent/1.webp"
-  },
-  {
-    "name": "kz_tangent Course 2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_tangent/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_tangent/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_tangent/2.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_tangent/2.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_tangent/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_tangent/2.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_tangent/2.webp"
-  },
-  {
-    "name": "kz_blackness Course 1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_blackness/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_blackness/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_blackness/1.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_blackness/1.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_blackness/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_blackness/1.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_blackness/1.webp"
-  },
-  {
-    "name": "kz_blackness Course 2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_blackness/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_blackness/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_blackness/2.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_blackness/2.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_blackness/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_blackness/2.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_blackness/2.webp"
-  },
-  {
-    "name": "kz_blackness Course 3",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_blackness/3.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_blackness/3.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_blackness/3.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_blackness/3.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_blackness/3.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_blackness/3.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_blackness/3.webp"
-  },
-  {
-    "name": "kz_alpha Course 1",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_alpha/1.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_alpha/1.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_alpha/1.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_alpha/1.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_alpha/1.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_alpha/1.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_alpha/1.webp"
-  },
-  {
-    "name": "kz_alpha Course 2",
-    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_alpha/2.jpg",
-    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_alpha/2.jpg",
-    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_alpha/2.jpg",
-    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_alpha/2.jpg",
-    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_alpha/2.webp",
-    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_alpha/2.webp",
-    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_alpha/2.webp"
+    "name": "kz_grotto Course 1",
+    "src": "https://github.com/jonahbearde/cs2kz-images/raw/master/images/kz_grotto/1.jpg",
+    "full": "https://github.com/jonahbearde/cs2kz-images/raw/public/full/kz_grotto/1.jpg",
+    "medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_grotto/1.jpg",
+    "thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/thumbnail/kz_grotto/1.jpg",
+    "webp_full": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_grotto/1.webp",
+    "webp_medium": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/medium/kz_grotto/1.webp",
+    "webp_thumbnail": "https://github.com/jonahbearde/cs2kz-images/raw/public/webp/thumbnail/kz_grotto/1.webp"
   }
 ]
