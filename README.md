@@ -11,7 +11,7 @@ Images in the [source directory](./images) are used to build the variants, high-
 
 ## Usage
 
-Generated images are in the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch.  
+Generated images are in the [public](https://github.com/KZGlobalTeam/cs2kz-images/tree/public) branch.  
 
 The following are available:
 - `maps.json` and `maps.min.json` - A JSON file containing all the images and their urls.
@@ -25,18 +25,18 @@ The following are available:
 ## Examples
 
 #### I want to use full-sized image of the second course from kz_tangent in WEBP format
-- https://github.com/jonahbearde/cs2kz-images/raw/public/webp/full/kz_tangent/2.webp
+- https://github.com/kzglobalteam/cs2kz-images/raw/public/webp/full/kz_tangent/2.webp
 
 #### I want to use medium-sized image of the fourth course from kz_alpha in JPG format
-- https://github.com/jonahbearde/cs2kz-images/raw/public/medium/kz_alpha/4.jpg
+- https://github.com/kzglobalteam/cs2kz-images/raw/public/medium/kz_alpha/4.jpg
 
 #### I want to retrieve all the map images and their urls as JSON
-- https://github.com/jonahbearde/cs2kz-images/raw/public/maps.json
-- https://github.com/jonahbearde/cs2kz-images/raw/public/maps.min.json
+- https://github.com/kzglobalteam/cs2kz-images/raw/public/maps.json
+- https://github.com/kzglobalteam/cs2kz-images/raw/public/maps.min.json
 
 ## Contributing
 If you would like to add missing map images, follow the steps:
-1. [Fork this repository](https://github.com/jonahbearde/cs2kz-images/fork).
+1. [Fork this repository](https://github.com/kzglobalteam/cs2kz-images/fork).
 2. Upload the images to the `images` directory in your repository.
 3. Commit and push your changes.
 4. Create a pull request from your repository to here.
