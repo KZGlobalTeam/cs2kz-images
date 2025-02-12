@@ -1,4 +1,4 @@
-# CS2 KZ Map Images
+# CS2KZ Map Images
 
 This repository is based on [map-images](https://github.com/KZGlobalTeam/map-images) and has been modified to suit specific requirements.
 
