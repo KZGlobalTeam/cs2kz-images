@@ -240,6 +240,16 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_greebochki/1.webp"
   },
   {
+    "name": "kz_greebochki Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_greebochki/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_greebochki/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_greebochki/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_greebochki/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_greebochki/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_greebochki/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_greebochki/2.webp"
+  },
+  {
     "name": "kz_ehcivec_final Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_ehcivec_final/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_ehcivec_final/1.jpg",
@@ -250,6 +260,36 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_ehcivec_final/1.webp"
   },
   {
+    "name": "kz_devon Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_devon/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_devon/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_devon/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_devon/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_devon/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_devon/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_devon/1.webp"
+  },
+  {
+    "name": "kz_devon Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_devon/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_devon/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_devon/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_devon/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_devon/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_devon/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_devon/2.webp"
+  },
+  {
+    "name": "kz_devon Course 3",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_devon/3.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_devon/3.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_devon/3.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_devon/3.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_devon/3.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_devon/3.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_devon/3.webp"
+  },
+  {
     "name": "kz_consequence Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_consequence/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_consequence/1.jpg",
@@ -258,6 +298,16 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_consequence/1.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_consequence/1.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_consequence/1.webp"
+  },
+  {
+    "name": "kz_consequence Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_consequence/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_consequence/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_consequence/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_consequence/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_consequence/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_consequence/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_consequence/2.webp"
   },
   {
     "name": "kz_checkmate Course 1",
