@@ -400,16 +400,6 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_horror/2.webp"
   },
   {
-    "name": "kz_hex Course 1",
-    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_hex/1.jpg",
-    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_hex/1.jpg",
-    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_hex/1.jpg",
-    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_hex/1.jpg",
-    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_hex/1.webp",
-    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_hex/1.webp",
-    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_hex/1.webp"
-  },
-  {
     "name": "kz_grotto Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_grotto/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_grotto/1.jpg",
