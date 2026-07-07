@@ -400,6 +400,126 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_outback/1.webp"
   },
   {
+    "name": "kz_opticks Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/1.webp"
+  },
+  {
+    "name": "kz_opticks Course 10",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/10.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/10.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/10.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/10.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/10.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/10.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/10.webp"
+  },
+  {
+    "name": "kz_opticks Course 11",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/11.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/11.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/11.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/11.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/11.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/11.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/11.webp"
+  },
+  {
+    "name": "kz_opticks Course 12",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/12.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/12.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/12.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/12.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/12.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/12.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/12.webp"
+  },
+  {
+    "name": "kz_opticks Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/2.webp"
+  },
+  {
+    "name": "kz_opticks Course 3",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/3.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/3.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/3.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/3.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/3.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/3.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/3.webp"
+  },
+  {
+    "name": "kz_opticks Course 4",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/4.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/4.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/4.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/4.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/4.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/4.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/4.webp"
+  },
+  {
+    "name": "kz_opticks Course 5",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/5.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/5.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/5.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/5.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/5.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/5.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/5.webp"
+  },
+  {
+    "name": "kz_opticks Course 6",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/6.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/6.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/6.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/6.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/6.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/6.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/6.webp"
+  },
+  {
+    "name": "kz_opticks Course 7",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/7.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/7.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/7.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/7.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/7.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/7.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/7.webp"
+  },
+  {
+    "name": "kz_opticks Course 8",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/8.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/8.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/8.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/8.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/8.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/8.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/8.webp"
+  },
+  {
+    "name": "kz_opticks Course 9",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_opticks/9.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_opticks/9.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_opticks/9.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_opticks/9.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_opticks/9.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_opticks/9.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_opticks/9.webp"
+  },
+  {
     "name": "kz_nix Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_nix/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_nix/1.jpg",
@@ -1008,6 +1128,166 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_consequence/2.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_consequence/2.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_consequence/2.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/1.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 10",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/10.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/10.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/10.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/10.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/10.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/10.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/10.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 11",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/11.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/11.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/11.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/11.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/11.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/11.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/11.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 12",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/12.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/12.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/12.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/12.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/12.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/12.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/12.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 13",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/13.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/13.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/13.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/13.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/13.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/13.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/13.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 14",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/14.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/14.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/14.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/14.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/14.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/14.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/14.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 15",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/15.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/15.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/15.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/15.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/15.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/15.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/15.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 16",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/16.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/16.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/16.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/16.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/16.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/16.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/16.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/2.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 3",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/3.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/3.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/3.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/3.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/3.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/3.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/3.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 4",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/4.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/4.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/4.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/4.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/4.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/4.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/4.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 5",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/5.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/5.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/5.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/5.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/5.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/5.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/5.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 6",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/6.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/6.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/6.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/6.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/6.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/6.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/6.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 7",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/7.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/7.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/7.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/7.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/7.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/7.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/7.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 8",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/8.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/8.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/8.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/8.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/8.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/8.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/8.webp"
+  },
+  {
+    "name": "kz_communitybhop Course 9",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_communitybhop/9.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_communitybhop/9.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_communitybhop/9.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_communitybhop/9.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_communitybhop/9.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_communitybhop/9.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_communitybhop/9.webp"
   },
   {
     "name": "kz_colors Course 1",
