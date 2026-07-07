@@ -180,6 +180,36 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sxb2_remake/1.webp"
   },
   {
+    "name": "kz_sxb2_onlyslide Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sxb2_onlyslide/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sxb2_onlyslide/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_sxb2_onlyslide/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_sxb2_onlyslide/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sxb2_onlyslide/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sxb2_onlyslide/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sxb2_onlyslide/1.webp"
+  },
+  {
+    "name": "kz_sxb2_onlyslide Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sxb2_onlyslide/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sxb2_onlyslide/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_sxb2_onlyslide/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_sxb2_onlyslide/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sxb2_onlyslide/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sxb2_onlyslide/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sxb2_onlyslide/2.webp"
+  },
+  {
+    "name": "kz_sxb2_isbhop Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sxb2_isbhop/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sxb2_isbhop/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_sxb2_isbhop/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_sxb2_isbhop/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sxb2_isbhop/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sxb2_isbhop/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sxb2_isbhop/1.webp"
+  },
+  {
     "name": "kz_sxb2_biewan Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sxb2_biewan/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sxb2_biewan/1.jpg",
@@ -208,6 +238,16 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sp1_strafechampion/1.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sp1_strafechampion/1.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sp1_strafechampion/1.webp"
+  },
+  {
+    "name": "kz_slide_agave Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_slide_agave/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_slide_agave/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_slide_agave/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_slide_agave/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_slide_agave/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_slide_agave/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_slide_agave/1.webp"
   },
   {
     "name": "kz_sillychicken Course 1",
@@ -270,6 +310,26 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sanctum/2.webp"
   },
   {
+    "name": "kz_sahara Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sahara/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sahara/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_sahara/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_sahara/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sahara/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sahara/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sahara/1.webp"
+  },
+  {
+    "name": "kz_sahara Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_sahara/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_sahara/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_sahara/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_sahara/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_sahara/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_sahara/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_sahara/2.webp"
+  },
+  {
     "name": "kz_royalcapital Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_royalcapital/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_royalcapital/1.jpg",
@@ -278,6 +338,26 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_royalcapital/1.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_royalcapital/1.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_royalcapital/1.webp"
+  },
+  {
+    "name": "kz_refurinfunflay Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_refurinfunflay/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_refurinfunflay/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_refurinfunflay/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_refurinfunflay/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_refurinfunflay/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_refurinfunflay/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_refurinfunflay/1.webp"
+  },
+  {
+    "name": "kz_porn Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_porn/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_porn/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_porn/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_porn/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_porn/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_porn/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_porn/1.webp"
   },
   {
     "name": "kz_pom Course 1",
@@ -358,6 +438,16 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_natureblock/1.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_natureblock/1.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_natureblock/1.webp"
+  },
+  {
+    "name": "kz_moss Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_moss/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_moss/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_moss/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_moss/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_moss/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_moss/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_moss/1.webp"
   },
   {
     "name": "kz_moorish Course 1",
@@ -490,6 +580,26 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_kuutio/2.webp"
   },
   {
+    "name": "kz_kreedzune Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_kreedzune/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_kreedzune/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_kreedzune/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_kreedzune/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_kreedzune/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_kreedzune/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_kreedzune/1.webp"
+  },
+  {
+    "name": "kz_kreedzune Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_kreedzune/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_kreedzune/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_kreedzune/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_kreedzune/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_kreedzune/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_kreedzune/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_kreedzune/2.webp"
+  },
+  {
     "name": "kz_kiwivision Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_kiwivision/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_kiwivision/1.jpg",
@@ -608,6 +718,16 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_jakke/7.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_jakke/7.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_jakke/7.webp"
+  },
+  {
+    "name": "kz_isuper Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_isuper/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_isuper/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_isuper/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_isuper/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_isuper/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_isuper/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_isuper/1.webp"
   },
   {
     "name": "kz_insomnia Course 1",
@@ -770,6 +890,16 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_ehcivec_final/1.webp"
   },
   {
+    "name": "kz_ego Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_ego/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_ego/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_ego/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_ego/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_ego/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_ego/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_ego/1.webp"
+  },
+  {
     "name": "kz_dojo Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_dojo/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_dojo/1.jpg",
@@ -890,6 +1020,16 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_colors/1.webp"
   },
   {
+    "name": "kz_cherry Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_cherry/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_cherry/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_cherry/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_cherry/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_cherry/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_cherry/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_cherry/1.webp"
+  },
+  {
     "name": "kz_checkmate Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_checkmate/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_checkmate/1.jpg",
@@ -980,6 +1120,16 @@
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_bluekarko/6.webp"
   },
   {
+    "name": "kz_bhop_slide Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_bhop_slide/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_bhop_slide/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_bhop_slide/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_bhop_slide/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_bhop_slide/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_bhop_slide/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_bhop_slide/1.webp"
+  },
+  {
     "name": "kz_bhop_apricity Course 1",
     "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_bhop_apricity/1.jpg",
     "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_bhop_apricity/1.jpg",
@@ -1058,5 +1208,25 @@
     "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_antimony/1.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_antimony/1.webp",
     "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_antimony/1.webp"
+  },
+  {
+    "name": "kz_angina_x Course 1",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_angina_x/1.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_angina_x/1.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_angina_x/1.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_angina_x/1.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_angina_x/1.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_angina_x/1.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_angina_x/1.webp"
+  },
+  {
+    "name": "kz_angina_x Course 2",
+    "src": "https://github.com/KZGlobalTeam/cs2kz-images/raw/master/images/kz_angina_x/2.jpg",
+    "full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/full/kz_angina_x/2.jpg",
+    "medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/medium/kz_angina_x/2.jpg",
+    "thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/thumbnail/kz_angina_x/2.jpg",
+    "webp_full": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/full/kz_angina_x/2.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/medium/kz_angina_x/2.webp",
+    "webp_thumbnail": "https://github.com/KZGlobalTeam/cs2kz-images/raw/public/webp/thumbnail/kz_angina_x/2.webp"
   }
 ]
