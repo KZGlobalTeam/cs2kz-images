@@ -40,3 +40,24 @@ jobs:
         clean: false
         branch: public
         folder: public
+    - name: Upload new images to Tencent COS
+      env:
+        SECRET_ID: ${{ secrets.TENCENTCLOUD_SECRET_ID }}
+        SECRET_KEY: ${{ secrets.TENCENTCLOUD_SECRET_KEY }}
+        BUCKET: ${{ vars.COS_BUCKET }}
+        REGION: ${{ vars.COS_REGION }}
+      run: |
+        curl -sSL https://github.com/tencentyun/coscli/releases/download/v1.0.9/coscli-v1.0.9-linux-amd64 -o /usr/local/bin/coscli
+        chmod +x /usr/local/bin/coscli
+        coscli --version
+
+        DEST="cos://${BUCKET}/"
+        DEST="${DEST%/}/"
+
+        coscli sync ./public/ "$DEST" \
+          -r \
+          -e "cos.${REGION}.myqcloud.com" \
+          -i "$SECRET_ID" -k "$SECRET_KEY" \
+          --init-skip=true \
+          --routines 10 \
+          --meta "Cache-Control:public, max-age=86400"
